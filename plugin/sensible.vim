@@ -95,4 +95,7 @@ endif
 
 inoremap <C-U> <C-G>u<C-U>
 
+set cul
+set tabstop=4 softtabstop=0 expandtab shiftwidth=4
+
 " vim:set ft=vim et sw=2:
